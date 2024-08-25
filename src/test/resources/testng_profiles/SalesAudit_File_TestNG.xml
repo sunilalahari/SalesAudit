@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DC" parallel="false" verbose="3">
+	<parameter name="configFile" value="SalesAuditFileScenarioConfig.properties"></parameter>
+	<parameter name="testRailRunID" value="6321"></parameter>
+	<parameter name="documentTitle" value="PDCOUTBOUND"></parameter>
+	<parameter name="reportName" value="SAFileScenario_Execution_Status.html"></parameter>
+	
+	<test name="TestSAFileScenario">
+	<classes> 
+		<class name="com.sephora.salesaudit.filescenario.TestSADotcomAPTOS"/>
+	</classes>
+	</test>
+</suite>

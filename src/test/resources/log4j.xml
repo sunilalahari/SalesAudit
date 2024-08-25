@@ -1,0 +1,40 @@
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+ 
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/" debug="true">
+
+ 
+<appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+<param name="Threshold" value="INFO" />
+
+  <param name="append" value="false"/>
+ 
+<param name="File" value="${system.user.dir}/src/test/java/selenium.log"/>
+
+<layout class="org.apache.log4j.PatternLayout">
+ <param name="ConversionPattern" value="%d %-5p [%c{1}] %m %n" />
+ </layout>
+ 
+</appender>
+
+
+<appender name="FILE" class="com.sephora.salesaudit.common.LogAppender">
+       
+        <param name="File" value="${user.dir}/src/test/resources/execution_logs/folder/logfile_%dateTime.log"/>
+        <param name="Append" value="true"/>
+
+        <!-- Rollover at midnight each day -->
+        <param name="DatePattern" value="'.'yyyy-MM-dd"/>
+
+        <layout class="org.apache.log4j.PatternLayout">
+            <param name="ConversionPattern" value="[%d{MMM d, yyyy hh:mm:ss a z}] [%-5p] [%t] [%c{1}] %m%n"/>
+        </layout>
+</appender>
+ 
+<root>
+<level value="INFO"/>
+<appender-ref ref="CONSOLE"/>
+ <appender-ref ref="FILE"/>
+</root>
+
+ 
+</log4j:configuration>

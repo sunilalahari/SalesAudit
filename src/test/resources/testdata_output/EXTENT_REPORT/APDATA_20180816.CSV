@@ -1,0 +1,661 @@
+Term,DepID,DepDesc,JobID,HeadCount,EmployeeID,Term Date,Status,Employee Type Code,Primary Group ID,First Name,Last Name,Level
+20170714,1960B,Brown Bar for store ( SEPHORA JK IGUATEMI),Consult de Marcas,1,302549,,01,Everyone,Colaborador,Gabriela,Santos,1
+20170605,2309B,Brown Bar for store ( SEPHORA PÁTIO PAULISTA),Consult de Marcas,1,302516,,01,Everyone,Colaborador,Priscila,Santos,0
+20170515,2305B,Brown Bar for store (SEPHORA ELDORADO ),Consult de Marcas,1,302484,,01,Everyone,Colaborador,Camila,ARANTES,1
+20171113,2305B,Brown Bar for store (SEPHORA ELDORADO ),Consult de Marcas,1,302643,,01,Everyone,Colaborador,Graziely,SILVA,1
+20161017,2303B,Brown Bar for store (SEPHORA MORUMBI ),Consult de Marcas,1,302285,,01,Everyone,Colaborador,Vanessa,RODRIGUES,0
+20180108,1932B,Brown Bar for store (SEPHORA RIO SUL ),Consult de Marcas,1,302686,20180802,03,Everyone,Colaborador,Tatiane,ELIAS,0
+20170410,,COMMERCIAL PLANNING MANAGER,Estagiario,1,302445,,19,Everyone,Colaborador,Beatriz,LOPES,0
+20170605,A809,COMMERCIAL PLANNING MANAGER,Anl de Plan Com Jr,1,302508,,01,Everyone,Colaborador,Luiza,TAFNER,0
+20171215,A809,COMMERCIAL PLANNING MANAGER,Anl de Plan Com PL,1,302672,,01,Everyone,Colaborador,Joao,SILVEIRA,0
+20180305,,COMMERCIAL PLANNING MANAGER,Espec Planej Comer,1,302718,,01,Everyone,Colaborador,Rodrigo,WATANABE,0
+20180305,A809,COMMERCIAL PLANNING MANAGER,Estagiario,1,302724,,01,Everyone,Colaborador,Marina,ZENKER,0
+20180410,,COMMERCIAL PLANNING MANAGER,Anl de Plan Com PL,1,302756,,01,Everyone,Colaborador,Carolina,SOUZA,0
+20180702,,COMMERCIAL PLANNING MANAGER,Anl de Plan Com PL,1,302810,,01,Everyone,Colaborador,Sarah,BUZZO,0
+20180802,,COMMERCIAL PLANNING MANAGER,Anl de Plan Com SR,1,302826,,01,Everyone,Colaborador,Gustavo,GALVAO,0
+20171204,A933,COMMERCIAL PLANNING MANAGER SHARED - Dotcom,Ger Planej Comercial,1,201277,,01,Everyone,Gerente,Bianca,SCATAMACCHIA,0
+20140512,3059,CONTROLES INTERNOS,Auditor Prev Perdas,1,301611,,01,Everyone,Colaborador,Ronaldo,Ometto,0
+20170502,A806,CONTROLES INTERNOS,Anl de Cont Inter Sr,1,302470,,01,Everyone,Colaborador,Ana,MANITA,0
+20140701,D075,CRM Marketing Regional Empresa Dotcom,GerExecCRM & Omini,1,301653,,01,Everyone,Gerente,Simone,Sancho,0
+20120502,A818,EDUCATION/TRAINING,Espec de Treinamento,1,201031,20180801,03,Everyone,Colaborador,Cinthia,Cesario,0
+20140505,A818,EDUCATION/TRAINING,Treinador Sr.,1,301599,,01,Everyone,Colaborador,Aline,Terto,0
+20140811,A818,EDUCATION/TRAINING,Coord DE TREINAMENTO,1,301674,,01,Everyone,Colaborador,Ana,Mota,0
+20150615,A818,EDUCATION/TRAINING,Treinador Sr.,1,301880,,01,Everyone,Colaborador,Carolina,Beluzo,0
+20171106,A818,EDUCATION/TRAINING,Treinador PL,1,302636,,01,Everyone,Colaborador,Pedro,VEGA,0
+20180205,A818,EDUCATION/TRAINING,Treinador PL,1,302700,,01,Everyone,Colaborador,Ester,MACIEL,0
+20120213,A920,EDUCATION/TRAINING - REGIONAL - Hoche,Ger Exec Trein,1,201016,,01,Everyone,Gerente,Ricardo,Penna,0
+20170102,A931,FINANCE DIRECTOR SHARED,Vice Pres Fin,1,201250,,01,Everyone,Presidente,João,BITTENCOURT,0
+20141006,A857,FINANCE-ACCOUNTING - Dotcom,Anl Contabil Pleno,1,301695,,01,Everyone,Colaborador,Jaqueline,Maieski,0
+20180403,A857,FINANCE-ACCOUNTING - Dotcom,Assis Contabilidade,1,201284,,01,Everyone,Colaborador,Talyta,COELHO,0
+20180410,A857,FINANCE-ACCOUNTING - Dotcom,Ger DE CONTABILIDADE,1,201285,,01,Everyone,Gerente,Leandro,PINTO,0
+20180521,A857,FINANCE-ACCOUNTING - Dotcom,Estagiario,1,201288,,01,Everyone,Colaborador,Esdras,CAMPOS,0
+20131202,A827,FINANCE-ACCOUNTING - Hoche,Anl Contabil Senior,1,301473,,09,Everyone,Colaborador,Sanderson,Souza,0
+20160801,A827,FINANCE-ACCOUNTING - Hoche,Anl Contabil Pleno,1,201244,,01,Everyone,Colaborador,Marilia,OCSEMBER,0
+20160815,A827,FINANCE-ACCOUNTING - Hoche,Coord Contabilidade,1,302220,,01,Everyone,Colaborador,Jabes,SILVA,0
+20170403,A827,FINANCE-ACCOUNTING - Hoche,Assis Contabilidade,1,302417,,01,Everyone,Colaborador,Stefany,SANTOS,0
+20180410,A827,FINANCE-ACCOUNTING - Hoche,Espec Contabil,1,302755,,01,Everyone,Colaborador,Marcelo,JUNIOR,0
+20160222,A930,FINANCE-ACCOUNTING SHARED - Dotcom,Ger EXEC CONTROL,1,102193,,01,Everyone,Gerente,Carolina,Dylewski,0
+20120917,A825,FINANCE-ADMINISTRATION,Anl Financeiro PL,1,201146,,09,Everyone,Colaborador,Naira,Santos,0
+20150817,A825,FINANCE-ADMINISTRATION,Anl Financeiro PL,1,301917,,01,Everyone,Colaborador,Douglas,Tavares,0
+20150901,A825,FINANCE-ADMINISTRATION,Analista Finan SR,1,301943,,01,Everyone,Colaborador,Raquel,Tanelli,0
+20170306,A911,FINANCE-ADMINISTRATION,Ger de Tes e Aud Int,1,201254,,09,Everyone,Gerente,Wagner,CHABES,0
+20170601,A825,FINANCE-ADMINISTRATION,Coord de Tesouraria,1,302504,,01,Everyone,Colaborador,Alex,SILVA,0
+20170904,A825,FINANCE-ADMINISTRATION,Anl Financeiro JR,1,302586,,01,Everyone,Colaborador,Shirley,SOUZA,0
+20170918,A911,FINANCE-ADMINISTRATION,Analista Finan SR,1,201272,,01,Everyone,Colaborador,Juliana,SELVENCA,0
+20180510,A825,FINANCE-ADMINISTRATION,Anl Financeiro PL,1,302780,,01,Everyone,Colaborador,Jucelino,OLIVEIRA,0
+20180510,A825,FINANCE-ADMINISTRATION,Analista Finan SR,1,302781,,01,Everyone,Colaborador,Camila,SILVA,0
+20140623,A918,FINANCE-PLANNIING-REGIONAL - Dotcom,Coord FP&A LATAM,1,301648,,01,Everyone,Colaborador,Daniela,Santos,0
+20150112,A918,FINANCE-PLANNIING-REGIONAL - Dotcom,Dir Plan Finan,1,102186,,01,Everyone,Diretor,Decio,Bueno,0
+20171107,A856,FINANCE-PLANNING - Dotcom,Anl de Plan Finan SR,1,201275,,01,Everyone,Colaborador,Carina,DORIA,0
+20180604,A826,FINANCE-PLANNING - Hoche,Espec Planej Finan,1,302792,,01,Everyone,Colaborador,Vanessa,SAKUGAWA,0
+20171121,A932,FINANCE-PLANNING SHARED - Dotcom,Ger Plan Finan,1,201276,,01,Everyone,Gerente,Daniela,LAVRADOR,0
+20150209,A858,FINANCE-TAX,Coord Fiscal,1,301779,,07,Everyone,Colaborador,Aline,Moreira,0
+20170201,A858,FINANCE-TAX,Coord Fiscal,1,201252,,01,Everyone,Colaborador,Lucas,CORREIA,0
+20170403,A858,FINANCE-TAX,Anl Fiscal PL,1,201257,,01,Everyone,Colaborador,Joao,JUNIOR,0
+20170403,A858,FINANCE-TAX,Anl Fiscal PL,1,302425,,01,Everyone,Colaborador,Gabriel,ARAUJO,0
+20170605,A858,FINANCE-TAX,Anl Fiscal JR,1,302509,,01,Everyone,Colaborador,Steffani,SANTOS,0
+20170807,A858,FINANCE-TAX,Anl Fiscal PL,1,302563,,01,Everyone,Colaborador,Jessica,ALVES,0
+20180115,A858,FINANCE-TAX,Anl Fiscal JR,1,302694,,01,Everyone,Colaborador,Camila,SANTOS,0
+20180312,A858,FINANCE-TAX,Anl Fiscal JR,1,302732,,01,Everyone,Colaborador,Erli,BARRETO,0
+20180312,A858,FINANCE-TAX,Assistente Fiscal,1,302736,,01,Everyone,Colaborador,Ana,RODRIGUES,0
+20180507,A858,FINANCE-TAX,Espec Tributario,1,302772,,01,Everyone,Colaborador,Guilherme,IACOVINO,0
+20180702,A858,FINANCE-TAX,Anl Fiscal JR,1,302814,,01,Everyone,Colaborador,Simone,SANTOS,0
+20140609,A934,FINANCE-TAX SHARED - Dotcom,Ger Fiscal,1,201157,,01,Everyone,Gerente,Jussara,Rogerio,0
+20130805,A816,HUMAN RESOURCES,Consultora RH,1,301384,,01,Everyone,Colaborador,Marina,Ramos,0
+20140515,A816,HUMAN RESOURCES,Anl de Rec Hum SR,1,301618,,01,Everyone,Colaborador,Flavia,Cardoso,0
+20171101,A816,HUMAN RESOURCES,Estagiario,1,302635,,01,Everyone,Colaborador,Ana,SILVA,0
+20180410,A816,HUMAN RESOURCES,Espec em Remuneração,1,302754,,01,Everyone,Colaborador,Amanda,SOUZA,0
+20131111,A919,HUMAN RESOURCES - REGIONAL - Dotcom,VP RH America Latina,1,301462,,01,Everyone,Diretor,Silene,Rodrigues,0
+20140414,A935,HUMAN RESOURCES SHARED - Dotcom,Consultora RH,1,301580,20180806,03,Everyone,Colaborador,Fabiana,Ferreira,0
+20150615,A935,HUMAN RESOURCES SHARED - Dotcom,Anl de Rec Hum PL,1,102189,,01,Everyone,Colaborador,Edileuza,Santos,0
+20180502,A935,HUMAN RESOURCES SHARED - Dotcom,Esp Op de RH,1,201287,,01,Everyone,Colaborador,Viviane,SANTANA,0
+20111010,A849,I.T. - ADMINISTRATION,Espec De Infra De TI,1,201006,,01,Everyone,Colaborador,Haroldo,Hitaka,0
+20180305,A936,I.T. ADMINISTRATION SHARED - Dotcom,Ger Exec TI,1,201282,,01,Everyone,Gerente,Danilo,MONTEIRO,0
+20151109,A851,I.T. PROJECTS,Analista De CRM PL,1,302011,,01,Everyone,Colaborador,Rafaela,Magnani,0
+20180607,A851,I.T. PROJECTS,Estagiário,1,201291,,01,Everyone,Colaborador,Mayara,LIMA,0
+20140310,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de Cadastro PL,1,301529,,01,Everyone,Colaborador,Roberta,Bezerra,0
+20150803,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de Compras SR,1,301903,20180803,03,Everyone,Colaborador,Francielli,Lima,0
+20160301,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de Logistica JR,1,302076,,01,Everyone,Colaborador,Miriam,Castro,0
+20160321,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de inventário Jr,1,302086,,01,Everyone,Colaborador,Daniel,Lahoz,0
+20161003,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de Logistica JR,1,302279,,01,Everyone,Colaborador,Guilherme,PILON,0
+20161212,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Coord de Logística,1,302327,,01,Everyone,Colaborador,Rodrigo,COLOMBINI,0
+20170403,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl de compras Pl,1,302418,,07,Everyone,Colaborador,Monique,GUIMARAES,0
+20170814,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Estagiario,1,302574,,01,Everyone,Colaborador,Juliana,PINTO,0
+20180517,A822,LOGISTICS & DISTRIBUTION-ADMINISTRATION,Anl DE CADASTRO JR,1,302787,,01,Everyone,Colaborador,Marina,ANDRIGO,0
+20140811,A937,LOGISTICS & DISTRIBUTION-ADMINISTRATION SHARED DOTCOM,Anl de Logistica PL,1,201159,,01,Everyone,Colaborador,Larissa,Prado,0
+20160926,A937,LOGISTICS & DISTRIBUTION-ADMINISTRATION SHARED DOTCOM,Ger De Logistica,1,102195,,01,Everyone,Gerente,Richard,TENCER,0
+20170508,A937,LOGISTICS & DISTRIBUTION-ADMINISTRATION SHARED DOTCOM,Ger de Importação,1,201262,,01,Everyone,Colaborador,Sergio,BIAO,0
+20140901,A855,LOGISTICS & DISTRIBUTION-REGIONAL,Dir  Supply Chain AL,1,102181,,01,Everyone,Diretor,Fabio,Goncalves,0
+20140910,A844,MARKETING&MERCHANDISING-REGIONAL,VP Mkt e Merchan A L,1,102182,,09,Everyone,Diretor,Andrea,Orcioli,0
+20111101,A838,MARKETING-ADMINISTRATION,Coord DE DESIGN,1,101088,,01,Everyone,Colaborador,Patricia,Maia,0
+20131202,A838,MARKETING-ADMINISTRATION,Anl de Midia SR,1,102154,,01,Everyone,Colaborador,Felipe,Bernardo,0
+20140210,A838,MARKETING-ADMINISTRATION,Coord de CRM,1,301500,,01,Everyone,Colaborador,Flavia,Oliva,0
+20150518,A838,MARKETING-ADMINISTRATION,Ger de Marketing,1,301856,,01,Everyone,Gerente,Cataldo,Domenicis,0
+20150803,A838,MARKETING-ADMINISTRATION,Anl de Vis Merch JR,1,301907,,01,Everyone,Colaborador,Patricia,Souza,0
+20150921,A838,MARKETING-ADMINISTRATION,Anl de Marketing Pl,1,301961,,01,Everyone,Colaborador,Rebeca,Asmar,0
+20170403,A838,MARKETING-ADMINISTRATION,Coord de Marketing,1,302431,,09,Everyone,Colaborador,Fernanda Pepe da SILVA,SILVA,0
+20170403,A838,MARKETING-ADMINISTRATION,Estagiario,1,302432,,01,Everyone,Colaborador,Geise,FREITAS,0
+20170814,A838,MARKETING-ADMINISTRATION,Estagiario,1,201270,,01,Everyone,Colaborador,Allan,AMANCIO,0
+20180409,A838,MARKETING-ADMINISTRATION,Anl de Marketing Sr,1,302753,,01,Everyone,Colaborador,Claudio,JUNIOR,0
+20150518,A839,MARKETING-MEDIA ONLINE,Designer Senior,1,201203,,01,Everyone,Colaborador,Gabriela,Oliveira,0
+20150518,A839,MARKETING-MEDIA ONLINE,Analista Mid Soc SR,1,201205,,01,Everyone,Colaborador,Victoria,Araujo,0
+20150601,A839,MARKETING-MEDIA ONLINE,Designer Pleno,1,201210,,09,Everyone,Colaborador,Karen,Hirakava,0
+20150601,A839,MARKETING-MEDIA ONLINE,Anl de Trade Mkt SR,1,201211,,01,Everyone,Colaborador,Mariana,Rivas,0
+20150601,A839,MARKETING-MEDIA ONLINE,Anl de Trade Mkt PL,1,201212,,01,Everyone,Colaborador,Bianca,Barros,0
+20150622,A839,MARKETING-MEDIA ONLINE,Designer Pleno,1,201217,,01,Everyone,Colaborador,Leilane,Filgueiras,0
+20170717,A839,MARKETING-MEDIA ONLINE,Anl de Midia PL,1,201266,,01,Everyone,Colaborador,Amanda,ALENCAR,0
+20170718,A839,MARKETING-MEDIA ONLINE,Anl MID SOCIAIS JR.,1,201265,,01,Everyone,Colaborador,Mariana,ALIENDE,0
+20170814,A839,MARKETING-MEDIA ONLINE,Estagiario,1,201269,,01,Everyone,Colaborador,Luana,FUKUMITSU,0
+20170814,A839,MARKETING-MEDIA ONLINE,Estagiario,1,201271,,19,Everyone,Colaborador,Pedro,SOUZA,0
+20180416,A839,MARKETING-MEDIA ONLINE,Designer Junior,1,201286,,01,Everyone,Colaborador,Ayeska,GARCIA,0
+20180607,A839,MARKETING-MEDIA ONLINE,Estagiario,1,201290,,01,Everyone,Colaborador,Stephanie,ROJAS,0
+20130415,A841,MARKETING-REGIONAL - Dotcom,Coord  Vis Merchan,1,301258,,01,Everyone,Colaborador,Natalia,Fornazari,0
+20080310,A835,MERCHANDISING-ADM DOTCOM,Ger de Produto JR,1,101025,,01,Everyone,Gerente,Ana,Padua,0
+20170201,A835,MERCHANDISING-ADM DOTCOM,Anl de Produto PL,1,201251,,01,Everyone,Colaborador,Isabella,AGUIAR,0
+20130506,A807,MERCHANDISING-ADMINISTRATION,Ger de Produto I,1,301303,,01,Everyone,Gerente,Erika,Lorenzetti,0
+20140804,A807,MERCHANDISING-ADMINISTRATION,Analista de Proc Pl,1,301671,,01,Everyone,Colaborador,Thais,GIUNCO,0
+20150310,A807,MERCHANDISING-ADMINISTRATION,Ger de Produto II,1,301819,,01,Everyone,Gerente,Nathalia,Ribeiro,0
+20150810,A807,MERCHANDISING-ADMINISTRATION,Ger de Produto JR,1,301911,,01,Everyone,Gerente,Alexandre,Reis,0
+20160912,A807,MERCHANDISING-ADMINISTRATION,Anl de Produto JR,1,302257,,01,Everyone,Colaborador,Katharina,LEHMANN,0
+20161017,A807,MERCHANDISING-ADMINISTRATION,Ger Exec Merchand,1,302283,,01,Everyone,Gerente,Samir,JORGE,0
+20170201,A807,MERCHANDISING-ADMINISTRATION,Anl de Produto JR,1,302348,20180803,03,Everyone,Colaborador,Victor,VIEIRA,0
+20170703,A807,MERCHANDISING-ADMINISTRATION,Anl de Produto JR,1,302534,,01,Everyone,Colaborador,Carolinne,VERGARI,0
+20170801,A807,MERCHANDISING-ADMINISTRATION,Anl de Produto PL,1,302561,,01,Everyone,Colaborador,Ana,SAENZ,0
+20170904,A807,MERCHANDISING-ADMINISTRATION,Estagiario,1,302595,20180801,03,Everyone,Colaborador,Aline,MARIA,0
+20180312,A807,MERCHANDISING-ADMINISTRATION,Estagiario,1,302734,,01,Everyone,Colaborador,Beatriz,BRUHNS,0
+20140602,A750,MERCHANDISING-CATEGORIES,Anl de Produto SR,1,301622,,01,Everyone,Colaborador,Jenny,Tsai,0
+20150406,A750,MERCHANDISING-CATEGORIES,Ger de Produto II,1,301829,,01,Everyone,Gerente,Renata,Nakano,0
+20170807,A836,MERCHANDISING-CATEGORIES,Estagiario,1,201267,,01,Everyone,Colaborador,Ingrid,NASCIMENTO,0
+20170901,A750,MERCHANDISING-CATEGORIES,Anl de Produto JR,1,302588,,01,Everyone,Colaborador,Giovanna,BOTECHIO,0
+20170302,A803,OFFICE ADMINISTRATION - 13º ANDAR,Assis Executiva,1,302361,,01,Everyone,Colaborador,Claudia,MONTEIRO,0
+20171113,A803,OFFICE ADMINISTRATION - 13º ANDAR,Analista Fac PL,1,302647,,01,Everyone,Colaborador,Juliana,LEAL,0
+20120910,D078,Operações Retail Gerencial,Dir Varejo,1,201079,,01,Everyone,Diretor,Graziele,Silva,0
+20141203,A813,OPERATIONS-CORPORATE,Ger de Operações,1,301745,,01,Everyone,Gerente,Luidi,Galvani,0
+20150302,A813,OPERATIONS-CORPORATE,Coordenador de Operações,1,301789,,01,Everyone,Colaborador,Victoria,Raymundo,0
+20150608,A813,OPERATIONS-CORPORATE,Anl DE OPERAÇÕES SR,1,301877,,09,Everyone,Colaborador,Suzana,Santos,0
+20170313,A813,OPERATIONS-CORPORATE,Analista de Op Jr,1,302411,,01,Everyone,Colaborador,Sarah,PRATIS,0
+20170515,A813,OPERATIONS-CORPORATE,Estagiário,1,302483,20180803,03,Everyone,Colaborador,Carolina,DIAS,0
+20171204,A813,OPERATIONS-CORPORATE,Anl DE OPERAÇÕES SR,1,302658,,01,Everyone,Colaborador,Luciana,PASSETI,0
+20120402,2302,OPERATIONS-STORES,Ger Regional,1,201021,,09,Everyone,Gerente,Rodrigo,Gouveia,2
+20141201,2302,OPERATIONS-STORES,Ger Regional,1,301741,,01,Everyone,Gerente,Fernanda,Silva,2
+20160314,2302,OPERATIONS-STORES,Ger Regional,1,302079,,01,Everyone,Gerente,Fernanda,Silva,2
+20170515,2302,OPERATIONS-STORES,Ger de Loja II,1,302500,,05,Everyone,Gerente,Vanessa,NETTO,2
+20171016,2302,OPERATIONS-STORES,Assis Comercial,1,302629,,01,Everyone,Colaborador,Gabriela,GAMA,0
+20171204,2302,OPERATIONS-STORES,Dir Varejo,1,302654,,01,Everyone,Diretor,Vinicius,CAÇAPAVA,0
+20140701,A814,OPERATIONS-VISUAL & STORE DESIGN,Ger DE PROJETOS,1,301651,,01,Everyone,Gerente,Daila,Lopes,0
+20171101,A814,OPERATIONS-VISUAL & STORE DESIGN,Analista de Proj SR,1,302633,,01,Everyone,Colaborador,Fernanda,PEDROSO,0
+20180607,A814,OPERATIONS-VISUAL & STORE DESIGN,Estagiario,1,302795,,01,Everyone,Colaborador,Iva,ANDRADE,0
+20180305,2607,Pop Recife Shopping - Hoche,Vendedor,1,302722,,01,Everyone,Colaborador,Jose,SANTOS,2
+20180305,2607,Pop Recife Shopping - Hoche,SUP DE QUIOSQUE,1,302723,,01,Everyone,Colaborador,Sara,CARVALHO,2
+20180305,2607,Pop Recife Shopping - Hoche,Vendedor,1,302725,,01,Everyone,Colaborador,Aurora,MONTEIRO,2
+20180504,2607,Pop Recife Shopping - Hoche,Vendedor,1,302771,20180801,03,Everyone,Colaborador,Ursula,AMORIM,2
+20131210,A913,PRESIDENT'S OFFICE - REGIONAL,Dir etora Geral,1,201154,,01,Everyone,Presidente,Flavia,Bittencourt,0
+20180521,D013,PRESIDENT'S OFFICE LATAM,Dir de E-Commerce,1,201289,,01,Everyone,Diretor,Frederico,MARDEGAN,0
+20170201,2453,QUIOSQUE - IGUATEMI FLORIANOPOLIS,Vendedor,1,302346,20180802,03,Everyone,Colaborador,Leticia,BRAGA,2
+20170201,2453,QUIOSQUE - IGUATEMI FLORIANOPOLIS,Vendedor,1,302347,,09,Everyone,Colaborador,Tamara,GUIMARAES,2
+20170502,2453,QUIOSQUE - IGUATEMI FLORIANOPOLIS,SUP DE QUIOSQUE,1,302471,,07,Everyone,Colaborador,Roberta,SOUZA,2
+20180806,2453,QUIOSQUE - IGUATEMI FLORIANOPOLIS,Vendedor,1,302829,,01,Everyone,Colaborador,Joao,SILVA,1
+20170515,2491,QUIOSQUE - SÃO CAETANO,Vendedor,1,302495,,01,Everyone,Colaborador,Amanda,SANTOS,2
+20170807,2491,QUIOSQUE - SÃO CAETANO,SUP DE QUIOSQUE,1,302567,,01,Everyone,Colaborador,Barbara,MACHADO,2
+20180301,2491,QUIOSQUE - SÃO CAETANO,Vendedor,1,302713,,01,Everyone,Colaborador,Larissa,INEZ,2
+20180601,2491,QUIOSQUE - SÃO CAETANO,Vendedor,1,302789,,01,Everyone,Colaborador,Melina,MIRANDA,1
+20170417,2501,QUIOSQUE / BARRA - SALVADOR,Vendedor,1,302467,,01,Everyone,Colaborador,Vanessa,SILVA,2
+20170417,2501,QUIOSQUE / BARRA - SALVADOR,Vendedor,1,302468,,01,Everyone,Colaborador,Roseane,VALERIO,2
+20180712,2501,QUIOSQUE / BARRA - SALVADOR,SUP DE QUIOSQUE,1,302820,,01,Everyone,Colaborador,Indiana,SANTOS,2
+20180809,2501,QUIOSQUE / BARRA - SALVADOR,Vendedor,1,302830,,01,Everyone,Colaborador,Andreza,SOUZA,1
+20170410,2319,QUIOSQUE / CENTER NORTE,Vendedor,1,302444,,01,Everyone,Colaborador,Thais,OLIVEIRA,2
+20171215,2319,QUIOSQUE / CENTER NORTE,Vendedor,1,302674,,01,Everyone,Colaborador,Eduardo,SILVA,2
+20180510,2319,QUIOSQUE / CENTER NORTE,Vendedor,1,302782,,01,Everyone,Colaborador,Gabriela,CHAGAS,2
+20180611,2319,QUIOSQUE / CENTER NORTE,SUP DE QUIOSQUE,1,302800,,01,Everyone,Colaborador,Barbara,LIMA,2
+20150710,2322,QUIOSQUE /TIJUCA,SUP DE QUIOSQUE,1,301894,,09,Everyone,Colaborador,Nathalia,Nunes,2
+20170612,2322,QUIOSQUE /TIJUCA,Vendedor,1,302528,,01,Everyone,Colaborador,Leticia,AZEVEDO,2
+20170911,2322,QUIOSQUE /TIJUCA,Vendedor,1,302601,,01,Everyone,Colaborador,Priscila,de SOUSA,2
+20180102,2322,QUIOSQUE /TIJUCA,Vendedor,1,302681,,01,Everyone,Colaborador,Stephany,ALVARENGA,2
+20171016,2514,QUIOSQUE BALNEARIO CAMBORIU,Vendedor,1,302627,,01,Everyone,Colaborador,Tabita,GIMARÃES,2
+20171204,2514,QUIOSQUE BALNEARIO CAMBORIU,SUP DE QUIOSQUE,1,302659,,01,Everyone,Colaborador,Mirna,SOUZA,2
+20180102,2514,QUIOSQUE BALNEARIO CAMBORIU,Vendedor,1,302677,,01,Everyone,Colaborador,Rodolfo,NIEHUES,2
+20180614,2514,QUIOSQUE BALNEARIO CAMBORIU,Vendedor,1,302807,,01,Everyone,Colaborador,Nicolle,PELENTIER,1
+20160321,2450,QUIOSQUE BRASÍLIA,SUP DE QUIOSQUE,1,302093,,01,Everyone,Colaborador,Priscila,Bonfim,2
+20160815,2450,QUIOSQUE BRASÍLIA,Vendedor,1,302221,20180801,03,Everyone,Colaborador,Juliane,SILVA,2
+20161114,2450,QUIOSQUE BRASÍLIA,Vendedor,1,302313,,01,Everyone,Colaborador,Hetiene,ARAUJO,2
+20170102,2450,QUIOSQUE BRASÍLIA,Vendedor,1,302332,,01,Everyone,Colaborador,Sebastiana,SOUSA,2
+20170605,2492,QUIOSQUE CATUAÍ LONDRINA,SUP DE QUIOSQUE,1,302511,,01,Everyone,Colaborador,Ana,ferreira,2
+20170605,2492,QUIOSQUE CATUAÍ LONDRINA,Vendedor,1,302519,,09,Everyone,Colaborador,Barbara,Zamarian,2
+20180611,2492,QUIOSQUE CATUAÍ LONDRINA,Vendedor,1,302798,,01,Everyone,Colaborador,Patrick,PEREIRA,1
+20180319,2608A,Quiosque Rio Design,Vendedor,1,302738,,01,Everyone,Colaborador,Tatiane,MARTINS,1
+20180319,2608A,Quiosque Rio Design,Vendedor,1,302739,,01,Everyone,Colaborador,Francisco,MARTINS,1
+20180319,2608A,Quiosque Rio Design,Vendedor,1,302740,,01,Everyone,Colaborador,Luiz,SILVA,1
+20180319,2608A,Quiosque Rio Design,SUP DE QUIOSQUE,1,302742,,07,Everyone,Colaborador,Melissa,PINTO,2
+20180402,2609,Quiosque São José,Vendedor,1,302749,,01,Everyone,Colaborador,Kathelyn,PETRI,2
+20180404,2609,Quiosque São José,SUP DE QUIOSQUE,1,302750,,01,Everyone,Colaborador,Giovana,PATCHIKIAN,2
+20180404,2609,Quiosque São José,Vendedor,1,302751,,01,Everyone,Colaborador,Jhonnatan,FREITAS,2
+20160415,2347,QUIOSQUE VITORIA,Vendedor,1,302125,,01,Everyone,Colaborador,Larissa,Maciel,2
+20171204,2347,QUIOSQUE VITORIA,Vendedor,1,302656,,01,Everyone,Colaborador,Marina,RODRIGUES,2
+20180702,2347,QUIOSQUE VITORIA,Vendedor,1,302811,,01,Everyone,Colaborador,Marcia,BICALHO,1
+20180709,2347,QUIOSQUE VITORIA,Vendedor,1,302817,,01,Everyone,Colaborador,Camila,FERREIRA,1
+20161024,2456,QUIOSQUE BH,Vendedor,1,302295,,01,Everyone,Colaborador,Ednalva,SAMUEL,2
+20161024,2456,QUIOSQUE BH,Vendedor,1,302296,,01,Everyone,Colaborador,Jacqueline,LEITE,2
+20161024,2456,QUIOSQUE BH,SUP DE QUIOSQUE,1,302297,,01,Everyone,Colaborador,Janaira,RIBEIRO,2
+20180108,2456,QUIOSQUE BH,Vendedor,1,302685,,01,Everyone,Colaborador,Romulo,CRUZ,2
+20131104,2310,STORE ALPHAVILLE,Consult de Vendas II,1,301432,,01,Everyone,Colaborador,Veronica,Oliveira,1
+20140609,2310,STORE ALPHAVILLE,Ger de Loja II,1,301635,,01,Everyone,Gerente,Vanessa,Rodrigues,2
+20140818,2310,STORE ALPHAVILLE,Consult de Vendas I,1,201170,,01,Everyone,Colaborador,Francisca,Pavan,1
+20141001,2310,STORE ALPHAVILLE,Estoquista,1,301691,,01,Everyone,Colaborador,Rafael,Antunes,1
+20141201,2310,STORE ALPHAVILLE,Consult de Vendas I,1,301750,,01,Everyone,Colaborador,Gizele,Oliveira,1
+20150112,2310,STORE ALPHAVILLE,Supervisor de Vendas,1,301764,,01,Everyone,Colaborador,Ana,Souza,2
+20150908,2310,STORE ALPHAVILLE,Consult de Vendas I,1,301950,,01,Everyone,Colaborador,Cintia,Santos,1
+20151005,2310,STORE ALPHAVILLE,Supervisor de Vendas,1,301971,,01,Everyone,Colaborador,Camila,Lustosa,2
+20160301,2310,STORE ALPHAVILLE,Caixa,1,302077,,01,Everyone,Colaborador,Aloisio,Cabral,1
+20170417,2310,STORE ALPHAVILLE,Consult de Vendas I,1,302457,,01,Everyone,Colaborador,Jefferson,INACIO,1
+20170807,2310,STORE ALPHAVILLE,Consult de Vendas I,1,302565,,01,Everyone,Colaborador,Glaucia,SILVA,1
+20171207,2310,STORE ALPHAVILLE,Consult de Vendas I,1,302664,,01,Everyone,Colaborador,Yris,MELO,0
+20180510,2310,STORE ALPHAVILLE,Caixa,1,302776,,01,Everyone,Colaborador,Jhonatan,MARTINS,1
+20121112,2318,STORE ANALIA FRANCO,Consult de Vendas II,1,301155,,01,Everyone,Colaborador,Andreia,Franzoni,2
+20140818,2318,STORE ANALIA FRANCO,Ger de Loja I,1,201177,,01,Everyone,Gerente,Vinicio,Barreto,2
+20141003,2318,STORE ANALIA FRANCO,Consult de Vendas I,1,301693,,01,Everyone,Colaborador,Aline,Moura,1
+20151103,2318,STORE ANALIA FRANCO,Consult de Vendas II,1,302002,,01,Everyone,Colaborador,Nicolli,Souza,1
+20151103,2318,STORE ANALIA FRANCO,Supervisor de Vendas,1,302006,,01,Everyone,Colaborador,Amanda,Ribeiro,2
+20151103,2318,STORE ANALIA FRANCO,Consult de Vendas I,1,302009,,01,Everyone,Colaborador,Cassio,Santos,1
+20160108,2318,STORE ANALIA FRANCO,Consult de Vendas I,1,302046,,01,Everyone,Colaborador,Ana,Augusto,1
+20160211,2318,STORE ANALIA FRANCO,Consult de Vendas II,1,302066,,01,Everyone,Colaborador,Eliana,Dezerto,1
+20160314,2318,STORE ANALIA FRANCO,Estoquista,1,302084,,09,Everyone,Colaborador,Jairo,Mendonça,1
+20160606,2318,STORE ANALIA FRANCO,Agte de Prev  Perdas,1,302163,,01,Everyone,Colaborador,Maria,Nunes,1
+20170102,2318,STORE ANALIA FRANCO,Consult de Vendas I,1,302330,,01,Everyone,Colaborador,Beatriz,MIGUEZ,1
+20170306,2318,STORE ANALIA FRANCO,Supervisor de Vendas,1,302369,,01,Everyone,Colaborador,Marcelo,Wiltenburg,2
+20170904,2318,STORE ANALIA FRANCO,Caixa,1,302590,,01,Everyone,Colaborador,Guilherme,ALMEIDA,1
+20171113,2318,STORE ANALIA FRANCO,Supervisor de Vendas,1,302637,,01,Everyone,Colaborador,Alejandro,GALINDO,2
+20180102,2318,STORE ANALIA FRANCO,Consult de Vendas I,1,302680,,01,Everyone,Colaborador,Renato,FERREIRA,1
+20180208,2318,STORE ANALIA FRANCO,Caixa,1,302707,,01,Everyone,Colaborador,Wagner,OLIVEIRA,1
+20121008,2313,STORE BARRA,Consult de Vendas II,1,301120,,01,Everyone,Colaborador,Daiana,LIMA,1
+20121105,2313,STORE BARRA,Consult de Vendas II,1,301168,,01,Everyone,Colaborador,Mary,CARVALHO,1
+20121105,2313,STORE BARRA,Consult de Vendas II,1,301170,,01,Everyone,Colaborador,Viviane,Gomes,1
+20121105,2313,STORE BARRA,Consult de Vendas II,1,301172,,01,Everyone,Colaborador,Melse,Silva,1
+20130204,2313,STORE BARRA,Consult de Vendas II,1,301195,,01,Everyone,Colaborador,Francisca,Farias,1
+20131111,2313,STORE BARRA,Supervisor de Vendas,1,301454,,01,Everyone,Colaborador,Caroline,Albuquerque,2
+20140505,2313,STORE BARRA,Supervisor de Vendas,1,301595,,09,Everyone,Colaborador,Vanessa,Oliveira,2
+20140715,2313,STORE BARRA,Consult de Vendas II,1,301661,,07,Everyone,Colaborador,Daniele,Barbosa,1
+20141015,2313,STORE BARRA,Consult de Vendas I,1,301704,,01,Everyone,Colaborador,Katerine,Almeida,1
+20160201,2313,STORE BARRA,Consult de Vendas I,1,302061,,01,Everyone,Colaborador,Layla,Nunes,1
+20160511,2313,STORE BARRA,Agte de Prev  Perdas,1,302153,,01,Everyone,Colaborador,Daniel,Duda,1
+20160805,2313,STORE BARRA,Consult de Vendas I,1,302212,,01,Everyone,Colaborador,Karina,LIMA,1
+20170403,2313,STORE BARRA,Supervisor de Vendas,1,302430,,09,Everyone,Colaborador,Elaine,PEREIRA,2
+20170605,2313,STORE BARRA,Consult de Vendas I,1,302513,,01,Everyone,Colaborador,Christiane,SILVA,1
+20170612,2313,STORE BARRA,Consult de Vendas I,1,302527,,09,Everyone,Colaborador,Henrique,CHAGAS,2
+20170717,2313,STORE BARRA,Caixa,1,302550,,01,Everyone,Colaborador,Carlos,Santos,1
+20170814,2313,STORE BARRA,Consult de Vendas I,1,302577,,01,Everyone,Colaborador,Roberto,QUEIROZ,1
+20170904,2313,STORE BARRA,Caixa,1,302580,,01,Everyone,Colaborador,Ana,PINHEIRO,1
+20171023,2313,STORE BARRA,Estoquista,1,302623,,01,Everyone,Colaborador,Andre,SANTOS,2
+20171204,2313,STORE BARRA,Supervisor de Vendas,1,302660,,01,Everyone,Colaborador,Maria,VEIGA,2
+20180503,2313,STORE BARRA,Consult de Vendas I,1,302765,,01,Everyone,Colaborador,Tatiana,SILVA,1
+20160404,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas II,1,302097,,01,Everyone,Colaborador,Michelle,Munhoz,1
+20160404,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas II,1,302103,,01,Everyone,Colaborador,Fabiane,Figueiredo,1
+20160404,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas II,1,302105,,01,Everyone,Colaborador,Alexandre,Reis,1
+20160404,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas I,1,302107,,01,Everyone,Colaborador,Bruna,Garcia,1
+20170508,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas I,1,302477,,01,Everyone,Colaborador,Paola,GUIMARAES,1
+20170703,2316,STORE BARRA SUL - PORTO ALEGRE,Caixa,1,302543,,09,Everyone,Colaborador,Sefora,NASCIMENTO,1
+20180108,2316,STORE BARRA SUL - PORTO ALEGRE,Ger de Loja I,1,302689,,01,Everyone,Gerente,Luiza,DEGRANDI,2
+20180511,2316,STORE BARRA SUL - PORTO ALEGRE,Caixa,1,302783,,01,Everyone,Colaborador,Alexander,,1
+20180511,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas I,1,302784,,01,Everyone,Colaborador,Thalia,SOPELSA,1
+20180511,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas I,1,302785,,01,Everyone,Colaborador,Marcio,ROCHA,1
+20180604,2316,STORE BARRA SUL - PORTO ALEGRE,Consult de Vendas I,1,302794,,01,Everyone,Colaborador,Angelica,GUSKI,1
+20180611,2316,STORE BARRA SUL - PORTO ALEGRE,Supervisor de Vendas,1,302801,,01,Everyone,Colaborador,Elene,CAVALHEIRO,2
+20180702,2316,STORE BARRA SUL - PORTO ALEGRE,Estoquista,1,302809,,01,Everyone,Colaborador,Jordana,LEMOS,1
+20130415,2314,STORE BRASILIA,Ger de Loja I,1,301236,,01,Everyone,Gerente,Jessica,Cordeiro,2
+20140408,2314,STORE BRASILIA,Consult de Vendas I,1,301558,,01,Everyone,Colaborador,Adriana,Santana,1
+20140408,2314,STORE BRASILIA,Caixa,1,301559,,07,Everyone,Colaborador,Cecilia,CARVALHO,1
+20140408,2314,STORE BRASILIA,Supervisor de Vendas,1,301570,,01,Everyone,Colaborador,Alessandra,Aleixo,2
+20140414,2314,STORE BRASILIA,Supervisor de Vendas,1,301576,,07,Everyone,Colaborador,Danielle,Loyo,2
+20150206,2314,STORE BRASILIA,Consult de Vendas II,1,301777,,01,Everyone,Colaborador,Andreia,Pessoa,1
+20151013,2314,STORE BRASILIA,Consult de Vendas I,1,301978,,01,Everyone,Colaborador,Simone,Oliveira,1
+20160613,2314,STORE BRASILIA,Consult de Vendas I,1,302172,,01,Everyone,Colaborador,Heloisa,Mateus,1
+20170201,2314,STORE BRASILIA,Caixa,1,302343,,01,Everyone,Colaborador,Marcella,BONA,1
+20170201,2314,STORE BRASILIA,Consult de Vendas II,1,302349,,01,Everyone,Colaborador,Antonia,BARBOSA,1
+20170213,2314,STORE BRASILIA,Consult de Vendas I,1,302356,,01,Everyone,Colaborador,Rosmario,Costa,1
+20170612,2314,STORE BRASILIA,Consult de Vendas I,1,302530,,09,Everyone,Colaborador,Jardel,PIMENTA,1
+20170807,2314,STORE BRASILIA,Consult de Vendas I,1,302571,,01,Everyone,Colaborador,Sildelene,SILVA,1
+20171009,2314,STORE BRASILIA,Supervisor de Vendas,1,302617,,01,Everyone,Colaborador,Adriana,FERREIRA,2
+20171106,2314,STORE BRASILIA,Caixa,1,302634,,01,Everyone,Colaborador,Heloisa,JESUS,1
+20180705,2314,STORE BRASILIA,Consult de Vendas I,1,302815,,01,Everyone,Colaborador,Natalia,FIGUEIREDO,1
+20150303,2315,STORE CAMPINAS,Consult de Vendas II,1,301790,,01,Everyone,Colaborador,Ana,Moriyama,1
+20150303,2315,STORE CAMPINAS,Consult de Vendas I,1,301792,,01,Everyone,Colaborador,Simone,Silva,1
+20150303,2315,STORE CAMPINAS,Supervisor de Vendas,1,301797,,01,Everyone,Colaborador,Caio,Ferreira,2
+20150303,2315,STORE CAMPINAS,Consult de Vendas I,1,301800,,01,Everyone,Colaborador,Gabriela,Constant,1
+20150303,2315,STORE CAMPINAS,Consult de Vendas I,1,301802,,09,Everyone,Colaborador,Lilian,Morais,1
+20150303,2315,STORE CAMPINAS,Consult de Vendas II,1,301803,,01,Everyone,Colaborador,Sandy,Alves,2
+20150413,2315,STORE CAMPINAS,Consult de Vendas I,1,301839,,01,Everyone,Colaborador,Lucas,Santos,1
+20150605,2315,STORE CAMPINAS,Consult de Vendas I,1,301876,,01,Everyone,Colaborador,Ana,Graciotti,1
+20160502,2315,STORE CAMPINAS,Consult de Vendas II,1,302140,,01,Everyone,Colaborador,Rafaela,Ferreira,1
+20170403,2315,STORE CAMPINAS,Supervisor de Vendas,1,302420,,01,Everyone,Colaborador,Carem,Almeida,2
+20171016,2315,STORE CAMPINAS,Consult de Vendas I,1,302628,,01,Everyone,Colaborador,Lainne,OLIVEIRA,2
+20171211,2315,STORE CAMPINAS,Caixa,1,302669,,01,Everyone,Colaborador,Diana,SOUZA,1
+20180208,2315,STORE CAMPINAS,Caixa,1,302705,,01,Everyone,Colaborador,Carolina,VICTORIANO,1
+20180614,2315,STORE CAMPINAS,Estoquista,1,302802,,01,Everyone,Colaborador,Danielle,FREITAS,1
+20180614,2315,STORE CAMPINAS,Ger de Loja II,1,302805,,01,Everyone,Gerente,Natalia,SPARVOLI,2
+20180614,2315,STORE CAMPINAS,Supervisor de Vendas,1,302806,,01,Everyone,Colaborador,Lia,SOUZA,2
+20180802,2315,STORE CAMPINAS,Consult de Marcas,1,302827,,01,Everyone,Colaborador,San,OLIVEIRA,1
+20141103,2312,STORE CIDADE JARDIM,Consult de Vendas II,1,301715,,01,Everyone,Colaborador,Isabela,Silva,1
+20141103,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,301721,,01,Everyone,Colaborador,Kelly,Santos,1
+20141103,2312,STORE CIDADE JARDIM,Supervisor de Vendas,1,301722,,01,Everyone,Colaborador,Luciana,Nascimento,2
+20150202,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,301773,,01,Everyone,Colaborador,Bruno,Mendes,1
+20150323,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,301823,,09,Everyone,Colaborador,Andre,Oliveira,2
+20151005,2312,STORE CIDADE JARDIM,Supervisor de Vendas,1,301969,,01,Everyone,Colaborador,Mariana,Silva,2
+20151103,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,301989,20180803,03,Everyone,Colaborador,Gisele,Rodriguez,1
+20160205,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,302065,,01,Everyone,Colaborador,Vanderlucia,Silva,1
+20170703,2312,STORE CIDADE JARDIM,Estoquista,1,302541,,01,Everyone,Colaborador,Lucas,VASCONCELOS,1
+20170807,2312,STORE CIDADE JARDIM,Aprendiz,1,302564,,01,Everyone,Colaborador,Maria,BARBOSA,1
+20171009,2312,STORE CIDADE JARDIM,Caixa,1,302613,,01,Everyone,Colaborador,Tatiane,SOUSA,1
+20180116,2312,STORE CIDADE JARDIM,Consult de Vendas I,1,302688,,01,Everyone,Colaborador,Felipe,LIMA,1
+20180604,2312,STORE CIDADE JARDIM,Caixa,1,302790,,01,Everyone,Colaborador,Debora,CAIRES,1
+20180614,2312,STORE CIDADE JARDIM,Supervisor de Vendas,1,302804,,01,Everyone,Colaborador,Maiara,VIEIRA,2
+20130805,2305,STORE ELDORADO,Consult de Vendas II,1,301363,,01,Everyone,Colaborador,Michele,Moreira,1
+20130805,2305,STORE ELDORADO,Supervisor de Vendas,1,301380,,01,Everyone,Colaborador,Juliana,Botana,2
+20131111,2305,STORE ELDORADO,Caixa,1,301450,,01,Everyone,Colaborador,Patricia,Zeferino,1
+20140310,2305,STORE ELDORADO,Consult de Vendas I,1,301521,,01,Everyone,Colaborador,Talmiris,Silva,1
+20140505,2305,STORE ELDORADO,Ger de Loja II,1,301585,,01,Everyone,Gerente,Ana,Ernesto,2
+20140512,2305,STORE ELDORADO,Consult de Vendas II,1,301608,,01,Everyone,Colaborador,Luana,Torres,1
+20140512,2305,STORE ELDORADO,Consult de Vendas II,1,301615,,01,Everyone,Colaborador,Maycon,Santos,1
+20140602,2305,STORE ELDORADO,Consult de Vendas II,1,301624,,09,Everyone,Colaborador,Camila,Santos,1
+20140616,2305,STORE ELDORADO,Supervisor de Vendas,1,301643,,01,Everyone,Colaborador,Paulo,Braga,2
+20141006,2305,STORE ELDORADO,Consult de Vendas I,1,301698,,01,Everyone,Colaborador,Gisele,Raimundo,1
+20141103,2305,STORE ELDORADO,Maquiador,1,301719,,01,Everyone,Colaborador,Bruno,Barbosa,1
+20150803,2305,STORE ELDORADO,Agte de Prev  Perdas,1,301904,,09,Everyone,Colaborador,Matheus,Barbosa,1
+20151016,2305,STORE ELDORADO,Consult de Vendas I,1,301984,,01,Everyone,Colaborador,Caroline,Flausino,1
+20160111,2305,STORE ELDORADO,Caixa,1,302057,,01,Everyone,Colaborador,Caroline,Gomes,1
+20160211,2305,STORE ELDORADO,Estoquista,1,302070,,01,Everyone,Colaborador,Rafael,Santos,1
+20160321,2305,STORE ELDORADO,Consult de Vendas I,1,302087,,01,Everyone,Colaborador,Rafael,Maia,1
+20160415,2305,STORE ELDORADO,Consult de Vendas I,1,302134,,01,Everyone,Colaborador,Damares,Batista,1
+20170109,2305,STORE ELDORADO,Consult de Vendas I,1,302336,,07,Everyone,Colaborador,Conrado,SCAFF,1
+20170306,2305,STORE ELDORADO,Consult de Vendas I,1,302386,,01,Everyone,Colaborador,Paulo,Lima,1
+20170403,2305,STORE ELDORADO,Caixa,1,302426,,01,Everyone,Colaborador,Geisa,SILVA,1
+20170508,2305,STORE ELDORADO,Aprendiz,1,302481,,01,Everyone,Colaborador,Daniela,GAMA,1
+20170515,2305,STORE ELDORADO,Aprendiz,1,302482,,01,Everyone,Colaborador,Larissa,CARVALHO,1
+20170904,2305,STORE ELDORADO,Consult de Vendas I,1,302584,,01,Everyone,Colaborador,Fatima,SILVA,1
+20170904,2305,STORE ELDORADO,Consult de Vendas I,1,302585,,01,Everyone,Colaborador,Beatriz,CAETANO,1
+20171009,2305,STORE ELDORADO,Supervisor de Vendas,1,302619,,01,Everyone,Colaborador,Clebson,ALMEIDA,2
+20171204,2305,STORE ELDORADO,Supervisor de Vendas,1,302657,,01,Everyone,Colaborador,Cleber,SANCHEZ,2
+20171208,2305,STORE ELDORADO,Consult de Vendas I,1,302665,,01,Everyone,Colaborador,Jorge,OLIVEIRA,1
+20180102,2305,STORE ELDORADO,Consult de Vendas I,1,302678,,01,Everyone,Colaborador,Gabriella,VANNUCCHI,1
+20180402,2305,STORE ELDORADO,Consult de Vendas I,1,302743,,01,Everyone,Colaborador,Pamela,CABECEIRA,1
+20180413,2305,STORE ELDORADO,Promotor de Vendas,1,302759,,01,Everyone,Colaborador,Thamires,PAULINO,1
+20180503,2305,STORE ELDORADO,Caixa,1,302762,,01,Everyone,Colaborador,Renata,DUTRA,1
+20180503,2305,STORE ELDORADO,Consult de Vendas I,1,302766,,01,Everyone,Colaborador,Lara,KASHIWAI,1
+20180802,2305,STORE ELDORADO,Agte de Prev  Perdas,1,302822,,01,Everyone,Colaborador,William,CRUZ,1
+20170306,2454,STORE FLAMBOYANT - GO,Caixa,1,302377,,01,Everyone,Colaborador,Cleiciane,SILVA,1
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302378,,01,Everyone,Colaborador,Evila,ROSA,2
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302382,,01,Everyone,Colaborador,Danyella,CALIL,1
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302384,,01,Everyone,Colaborador,Yago,COSTA,1
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302388,,01,Everyone,Colaborador,Jhonatan,SILVA,1
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302392,,01,Everyone,Colaborador,Carlos,SANTOS,1
+20170306,2454,STORE FLAMBOYANT - GO,Consult de Vendas II,1,302394,,01,Everyone,Colaborador,Renata,FARIAS,2
+20170403,2454,STORE FLAMBOYANT - GO,Consult de Vendas I,1,302442,,01,Everyone,Colaborador,Ingrid,ROCHA,1
+20171009,2454,STORE FLAMBOYANT - GO,Supervisor de Vendas,1,302616,,01,Everyone,Colaborador,Alessandra,SILVA,2
+20171016,2454,STORE FLAMBOYANT - GO,Caixa,1,302622,,01,Everyone,Colaborador,Joao,OLIVEIRA,1
+20180205,2454,STORE FLAMBOYANT - GO,Estoquista,1,302703,,01,Everyone,Colaborador,Marcus,NUNES,1
+20180402,2454,STORE FLAMBOYANT - GO,Consult de Vendas II,1,302744,20180802,03,Everyone,Colaborador,Walison,SILVA,1
+20180510,2454,STORE FLAMBOYANT - GO,Caixa,1,302779,,01,Everyone,Colaborador,Esdranne,SANTOS,1
+20180611,2454,STORE FLAMBOYANT - GO,Ger de Loja II,1,302797,,01,Everyone,Gerente,Vera,CAMARGO,2
+20180802,2454,STORE FLAMBOYANT - GO,Supervisor de Vendas,1,302823,,01,Everyone,Colaborador,Rodrigo,MIRANDA,2
+20120910,2317,STORE HIGIENÓPOLIS,Supervisor de Vendas,1,201077,,07,Everyone,Colaborador,Fulvia,MORAES,2
+20130805,2317,STORE HIGIENÓPOLIS,Ger de Loja I,1,301362,,01,Everyone,Gerente,Renata,Coelho,2
+20131104,2317,STORE HIGIENÓPOLIS,Consult de Vendas II,1,301436,,01,Everyone,Colaborador,Raquel,Melo,1
+20150309,2317,STORE HIGIENÓPOLIS,Supervisor de Vendas,1,301818,,01,Everyone,Colaborador,Frank,Guimaraes,2
+20150803,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,301908,,01,Everyone,Colaborador,Pablo,Antunes,1
+20150901,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,301937,,01,Everyone,Colaborador,Barbara,Aguiar,1
+20150908,2317,STORE HIGIENÓPOLIS,Consult de Vendas II,1,301945,,01,Everyone,Colaborador,Daniela,Marques,1
+20150908,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,301947,,01,Everyone,Colaborador,Enila,Neves,1
+20150908,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,301949,,01,Everyone,Colaborador,Carolina,Leal,1
+20151005,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,301967,,01,Everyone,Colaborador,Marcia,Oliveira,1
+20151005,2317,STORE HIGIENÓPOLIS,Consult de Vendas II,1,301972,,01,Everyone,Colaborador,Erica,Silva,1
+20151103,2317,STORE HIGIENÓPOLIS,Supervisor de Vendas,1,301990,,01,Everyone,Colaborador,Barbara,Celestino,2
+20160411,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,302132,,01,Everyone,Colaborador,Gabriela,Bonaldi,2
+20160701,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,302176,,01,Everyone,Colaborador,Renato,Santos,1
+20170403,2317,STORE HIGIENÓPOLIS,Consult de Vendas II,1,302421,,07,Everyone,Colaborador,Gisele,da ROCHA,1
+20170904,2317,STORE HIGIENÓPOLIS,Consult de Vendas I,1,302591,,01,Everyone,Colaborador,Jessica,ALMEIDA,1
+20171002,2317,STORE HIGIENÓPOLIS,Estoquista,1,302607,,01,Everyone,Colaborador,Igor,PIMENTEL,1
+20171204,2317,STORE HIGIENÓPOLIS,Caixa,1,302655,,01,Everyone,Colaborador,Karolayne,MARQUES,1
+20180115,2317,STORE HIGIENÓPOLIS,Caixa,1,302696,,01,Everyone,Colaborador,Michelly,ABREU,1
+20120910,1960,STORE JK,Supervisor de Vendas,1,201070,,01,Everyone,Colaborador,Bruna,Nascimento,2
+20130506,1960,STORE JK,Consult de Vendas II,1,301270,,05,Everyone,Colaborador,Jenifer,Lussezano,1
+20131007,1960,STORE JK,Consult de Vendas II,1,301421,,01,Everyone,Colaborador,Ana,Ribeiro,1
+20131111,1960,STORE JK,Consult de Vendas I,1,301449,,01,Everyone,Colaborador,Ivanielle,Silva,1
+20140317,1960,STORE JK,Caixa,1,301544,,01,Everyone,Colaborador,Marli,Sousa,1
+20140505,1960,STORE JK,Consult de Vendas II,1,301588,,01,Everyone,Colaborador,Thereza,Zamberlan,1
+20140505,1960,STORE JK,Consult de Vendas I,1,301604,,01,Everyone,Colaborador,Gabriela,Santos,1
+20140519,1960,STORE JK,Consult de Vendas II,1,301620,,07,Everyone,Colaborador,Marcelo,Santana,1
+20140818,1960,STORE JK,Consult de Vendas II,1,201172,,01,Everyone,Colaborador,Helinete,Alves,1
+20140818,1960,STORE JK,Supervisor de Vendas,1,201174,,09,Everyone,Colaborador,Monica,Silva,2
+20140818,1960,STORE JK,Consult de Vendas II,1,201175,,01,Everyone,Colaborador,Brunna,Fernandes,1
+20141015,1960,STORE JK,Consult de Vendas II,1,301705,,01,Everyone,Colaborador,Silmara,Maciel,1
+20150116,1960,STORE JK,Consult de Vendas I,1,301770,,01,Everyone,Colaborador,Ana,SA,1
+20150406,1960,STORE JK,Supervisor de Vendas,1,301833,,01,Everyone,Colaborador,Felipe,Oliveira,2
+20150615,1960,STORE JK,Ger de Loja II,1,301879,,01,Everyone,Gerente,Talem,Borges,2
+20150904,1960,STORE JK,Consult de Vendas II,1,301940,,01,Everyone,Colaborador,Nayara,Silva,1
+20151005,1960,STORE JK,Consult de Vendas I,1,301965,,09,Everyone,Colaborador,Silvani,Teixeira,1
+20151103,1960,STORE JK,Maquiador,1,302004,,01,Everyone,Colaborador,Max,Silva,1
+20160606,1960,STORE JK,Estoquista,1,302164,,01,Everyone,Colaborador,Felipe,Tavares,1
+20170515,1960,STORE JK,Consult de Vendas I,1,302487,,05,Everyone,Colaborador,Roseane,AGUIAR,1
+20180108,1960,STORE JK,Caixa,1,302683,,01,Everyone,Colaborador,Lidia,VALE,1
+20180601,1960,STORE JK,Supervisor de Vendas,1,302788,,01,Everyone,Colaborador,Diego,GASPARINI,2
+20180705,1960,STORE JK,Caixa,1,302816,,01,Everyone,Colaborador,Beatriz,MOURA,1
+20180802,1960,STORE JK,Caixa,1,302824,,01,Everyone,Colaborador,Israel,CORDEIRO,1
+20130304,2306,STORE JUNDIAI,Ger de Loja I,1,301208,,01,Everyone,Gerente,Maria,Silva,2
+20130506,2306,STORE JUNDIAI,Supervisor de Vendas,1,301264,,01,Everyone,Colaborador,Diego,Claure,2
+20130902,2306,STORE JUNDIAI,Consult de Vendas II,1,301391,,09,Everyone,Colaborador,Aline,Salve,1
+20131202,2306,STORE JUNDIAI,Consult de Vendas II,1,301482,,01,Everyone,Colaborador,Wellington,Santana,2
+20140113,2306,STORE JUNDIAI,Consult de Vendas I,1,301491,,01,Everyone,Colaborador,Amanda,Souza,1
+20140707,2306,STORE JUNDIAI,Consult de Vendas I,1,301656,,01,Everyone,Colaborador,Tatiana,Padilha,1
+20141201,2306,STORE JUNDIAI,Caixa,1,301738,,07,Everyone,Colaborador,Talita,Simoes,1
+20150408,2306,STORE JUNDIAI,Supervisor de Vendas,1,301834,,01,Everyone,Colaborador,Fernanda,Durigon,2
+20160502,2306,STORE JUNDIAI,Consult de Vendas I,1,302138,,05,Everyone,Colaborador,Raphaela,Lins,1
+20160718,2306,STORE JUNDIAI,Estoquista,1,302198,,01,Everyone,Colaborador,JORDENE,MENEZES,1
+20170206,2306,STORE JUNDIAI,Consult de Vendas I,1,302354,,01,Everyone,Colaborador,Luciano,de ALMEIDA,1
+20170904,2306,STORE JUNDIAI,Caixa,1,302593,,01,Everyone,Colaborador,Felix,da SILVA,1
+20180409,2306,STORE JUNDIAI,Consult de Vendas I,1,302752,,01,Everyone,Colaborador,Caroline,CHACON,1
+20120806,2303,STORE MORUMBI,Consult de Vendas II,1,201058,,01,Everyone,Colaborador,Eduardo,Silva,1
+20120813,2303,STORE MORUMBI,Supervisor de Vendas,1,201061,,09,Everyone,Colaborador,Mayara,Jesus,2
+20120820,2303,STORE MORUMBI,Ger de Loja I,1,201062,,01,Everyone,Gerente,Alexandre,Santos,2
+20120910,2303,STORE MORUMBI,Consult de Vendas II,1,201068,,01,Everyone,Colaborador,Andreia,Silva,1
+20121203,2303,STORE MORUMBI,Supervisor de Vendas,1,301187,,01,Everyone,Colaborador,Debora,Sobreira,2
+20130506,2303,STORE MORUMBI,Consult de Vendas II,1,301284,,01,Everyone,Colaborador,Stephanie,Silva,1
+20130513,2303,STORE MORUMBI,Maquiador,1,301307,,01,Everyone,Colaborador,Pablo,Felix,1
+20130902,2303,STORE MORUMBI,Consult de Vendas II,1,301387,,01,Everyone,Colaborador,Carolina,Queppe,1
+20131202,2303,STORE MORUMBI,Caixa,1,301484,,07,Everyone,Colaborador,Adriana,Silva,1
+20140310,2303,STORE MORUMBI,Supervisor de Vendas,1,301523,,01,Everyone,Colaborador,Manuela,Scaff,2
+20140804,2303,STORE MORUMBI,Consult de Vendas I,1,301666,,01,Everyone,Colaborador,Rafaela,Martins,1
+20141201,2303,STORE MORUMBI,Consult de Vendas II,1,301740,,01,Everyone,Colaborador,Tiago,Alves,2
+20150309,2303,STORE MORUMBI,Estoquista,1,301817,,01,Everyone,Colaborador,Raphael,Oliveira,1
+20150605,2303,STORE MORUMBI,Consult de Vendas I,1,301873,,01,Everyone,Colaborador,Patricia,Lima,1
+20160111,2303,STORE MORUMBI,Caixa,1,302055,,01,Everyone,Colaborador,Luiz,Santos,1
+20160211,2303,STORE MORUMBI,Consult de Vendas I,1,302067,,01,Everyone,Colaborador,Zianne,Oliveira,1
+20170313,2303,STORE MORUMBI,Supervisor de Vendas,1,302412,,01,Everyone,Colaborador,Sergio,SILVA,2
+20170904,2303,STORE MORUMBI,Consult de Vendas I,1,302583,,01,Everyone,Colaborador,Cleidir,SANTOS,1
+20171009,2303,STORE MORUMBI,Agte de Prev  Perdas,1,302612,,01,Everyone,Colaborador,Paulo,JUNIOR,2
+20171113,2303,STORE MORUMBI,Caixa,1,302639,,07,Everyone,Colaborador,Andréia,SILVA,1
+20171113,2303,STORE MORUMBI,Consult de Vendas I,1,302641,,01,Everyone,Colaborador,Hortencia,OLIVEIRA,1
+20180209,2303,STORE MORUMBI,Promotor de Vendas,1,302711,,01,Everyone,Colaborador,Carolina,PINSDORF,1
+20180305,2303,STORE MORUMBI,Consult de Vendas I,1,302719,,01,Everyone,Colaborador,Cassia,CORDEIRO,1
+20180305,2303,STORE MORUMBI,Caixa,1,302720,20180801,03,Everyone,Colaborador,Leticia,SILVA,1
+20180604,2303,STORE MORUMBI,Caixa,1,302791,,01,Everyone,Colaborador,Kelly,OLIVEIRA,1
+20180702,2303,STORE MORUMBI,Consult de Vendas I,1,302813,,01,Everyone,Colaborador,Karen,SILVA,1
+20121203,2308,STORE NITEROI,Estoquista,1,301189,,09,Everyone,Colaborador,Marcus,Martins,1
+20130415,2308,STORE NITEROI,Consult de Vendas I,1,301238,,01,Everyone,Colaborador,Roberta,Oliveira,1
+20130415,2308,STORE NITEROI,Caixa,1,301260,,01,Everyone,Colaborador,Gleiciane,Barreto,1
+20140609,2308,STORE NITEROI,Consult de Vendas I,1,301634,,01,Everyone,Colaborador,Pamela,Viana,1
+20140814,2308,STORE NITEROI,Supervisor de Vendas,1,201161,,01,Everyone,Colaborador,Cinthya,Macedo,2
+20151103,2308,STORE NITEROI,Agte de Prev  Perdas,1,301988,,17,Everyone,Colaborador,Jose,Mesquita,1
+20160905,2308,STORE NITEROI,Ger de Loja I,1,302246,,01,Everyone,Gerente,ROBERTA,ROSA,2
+20170306,2308,STORE NITEROI,Consult de Vendas I,1,302372,,07,Everyone,Colaborador,Gleyci,Smith,1
+20170313,2308,STORE NITEROI,Consult de Vendas I,1,302413,,01,Everyone,Colaborador,Juliana,PEREIRA,1
+20170605,2308,STORE NITEROI,Consult de Vendas I,1,302533,,09,Everyone,Colaborador,Ana,SANTOS,1
+20171207,2308,STORE NITEROI,Supervisor de Vendas,1,302663,,01,Everyone,Colaborador,Leticia,SANTOS,2
+20180412,2308,STORE NITEROI,Consult de Vendas I,1,302758,,01,Everyone,Colaborador,Augusto,,1
+20180510,2308,STORE NITEROI,Consult de Vendas I,1,302774,,01,Everyone,Colaborador,Wallace,FERNANDES,1
+20180510,2308,STORE NITEROI,Caixa,1,302778,,01,Everyone,Colaborador,Carolina,LEMOS,1
+20150105,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,301759,,01,Everyone,Colaborador,Herberth,Alves,1
+20160822,2455,STORE PARK SHOPPING - BRASILIA,Ger de Loja III,1,302234,,01,Everyone,Gerente,Marlene,REIS,2
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Agte de Prev  Perdas,1,302259,,01,Everyone,Colaborador,URCILAS,NASCIMENTO,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302262,,01,Everyone,Colaborador,EYGLIS,RAMALHO,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Caixa,1,302263,,01,Everyone,Colaborador,DANIELLE,SANTOS,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Supervisor de Vendas,1,302265,,01,Everyone,Colaborador,Anisio,JUNIOR,2
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302266,,01,Everyone,Colaborador,Sebastiana,SANTOS,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302271,,01,Everyone,Colaborador,DANIELA,MUNIZ,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302274,,01,Everyone,Colaborador,JESSICA,DE BARROS,1
+20160919,2455,STORE PARK SHOPPING - BRASILIA,Estoquista Volante,1,302276,,01,Everyone,Colaborador,Jose,ROCHA,1
+20161111,2455,STORE PARK SHOPPING - BRASILIA,Promotor de Vendas,1,302300,,01,Everyone,Colaborador,Andressa,FRANCISCO,1
+20170911,2455,STORE PARK SHOPPING - BRASILIA,Supervisor de Vendas,1,302600,,01,Everyone,Colaborador,Maria,OLIVEIRA,2
+20171002,2455,STORE PARK SHOPPING - BRASILIA,Caixa,1,302611,,01,Everyone,Colaborador,Isana,SILVA,1
+20171106,2455,STORE PARK SHOPPING - BRASILIA,Supervisor de Vendas,1,302631,,01,Everyone,Colaborador,Reney,MEDEIROS,2
+20180205,2455,STORE PARK SHOPPING - BRASILIA,Caixa,1,302704,,01,Everyone,Colaborador,Myrian,GOMES,1
+20180305,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302716,,01,Everyone,Colaborador,Jean,CARDOSO,1
+20180305,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302717,,01,Everyone,Colaborador,Vanessa,OLIVEIRA,1
+20180510,2455,STORE PARK SHOPPING - BRASILIA,Consult de Vendas I,1,302777,,01,Everyone,Colaborador,Kenya,SOUZA,1
+20130715,2307,STORE PATIO BATEL,Supervisor de Vendas,1,301321,,01,Everyone,Colaborador,Indiara,Rosa,2
+20130715,2307,STORE PATIO BATEL,Consult de Vendas I,1,301339,,01,Everyone,Colaborador,Tiffany,Amaral,2
+20130715,2307,STORE PATIO BATEL,Consult de Vendas II,1,301343,,01,Everyone,Colaborador,Jessika,Clemente,1
+20150713,2307,STORE PATIO BATEL,Consult de Vendas I,1,301897,,01,Everyone,Colaborador,Maria,Freitas,1
+20160404,2307,STORE PATIO BATEL,Supervisor de Vendas,1,302117,,01,Everyone,Colaborador,Fernanda,Andrade,2
+20160411,2307,STORE PATIO BATEL,Caixa,1,302133,,05,Everyone,Colaborador,Letícia,Lara,1
+20160708,2307,STORE PATIO BATEL,Consult de Vendas I,1,302179,,01,Everyone,Colaborador,Dayane,Dias,2
+20170502,2307,STORE PATIO BATEL,Estoquista,1,302473,,09,Everyone,Colaborador,Louisiane,SOBREIRA,1
+20170605,2307,STORE PATIO BATEL,Consult de Vendas I,1,302512,,01,Everyone,Colaborador,Neiva,SACA,1
+20171016,2307,STORE PATIO BATEL,Caixa,1,302621,,01,Everyone,Colaborador,Stefany,SCARABELI,1
+20180208,2307,STORE PATIO BATEL,Consult de Vendas I,1,302709,,01,Everyone,Colaborador,Thainara,PEREIRA,1
+20180312,2307,STORE PATIO BATEL,Ger de Loja I,1,302735,,01,Everyone,Gerente,Lisiane,BORGES,2
+20180614,2307,STORE PATIO BATEL,Consult de Vendas I,1,302808,,01,Everyone,Colaborador,Priscila,CORDEIRO,1
+20121016,2309,STORE PAULISTA,Supervisor de Vendas,1,301150,,01,Everyone,Colaborador,Davis,Minori,2
+20130506,2309,STORE PAULISTA,Supervisor de Vendas,1,301286,,01,Everyone,Colaborador,Renan,Alexandre,2
+20130513,2309,STORE PAULISTA,Consult de Vendas II,1,301306,,01,Everyone,Colaborador,Maryanne,Silva,1
+20130805,2309,STORE PAULISTA,Supervisor de Vendas,1,301377,,01,Everyone,Colaborador,Fernanda,Ramasco,2
+20130805,2309,STORE PAULISTA,Consult de Vendas II,1,301378,,01,Everyone,Colaborador,Yasmmin,Toguia,2
+20130805,2309,STORE PAULISTA,Estoquista,1,301381,,01,Everyone,Colaborador,Rogerio,Celestino,1
+20131111,2309,STORE PAULISTA,Consult de Vendas I,1,301453,,01,Everyone,Colaborador,Tayhana,Carvalho,2
+20140505,2309,STORE PAULISTA,Consult de Vendas II,1,301598,,01,Everyone,Colaborador,Agnaldo,Pereira,1
+20141110,2309,STORE PAULISTA,Consult de Vendas I,1,301732,,01,Everyone,Colaborador,Andreia,Felix,1
+20150810,2309,STORE PAULISTA,Consult de Vendas II,1,301912,,01,Everyone,Colaborador,Yuliane,Dias,2
+20160201,2309,STORE PAULISTA,Ger de Loja II,1,302062,,01,Everyone,Gerente,Sidnei,Baroni,2
+20170403,2309,STORE PAULISTA,Aprendiz,1,302433,20180802,03,Everyone,Colaborador,Ariane,PAMPLONA,1
+20170403,2309,STORE PAULISTA,Aprendiz,1,302434,20180802,03,Everyone,Colaborador,Andressa,TRIGUEIRO,1
+20170417,2309,STORE PAULISTA,Consult de Vendas I,1,302466,,01,Everyone,Colaborador,Tatiane,RAMOS,1
+20170605,2309,STORE PAULISTA,Consult de Vendas I,1,302505,,01,Everyone,Colaborador,Renan,CESAR,1
+20170605,2309,STORE PAULISTA,Agte de Prev  Perdas,1,302514,,01,Everyone,Colaborador,David,JUNIOR,1
+20170612,2309,STORE PAULISTA,Consult de Vendas I,1,302525,,01,Everyone,Colaborador,Juliana,SANTOS,1
+20170904,2309,STORE PAULISTA,Agte de Prev  Perdas,1,302592,,01,Everyone,Colaborador,Vanuza,SOUZA,1
+20171113,2309,STORE PAULISTA,Consult de Vendas I,1,302640,,01,Everyone,Colaborador,Larissa,COELHO,1
+20171113,2309,STORE PAULISTA,Supervisor de Vendas,1,302644,,01,Everyone,Colaborador,Luciana,LIMA,2
+20171113,2309,STORE PAULISTA,Caixa,1,302646,,01,Everyone,Colaborador,Amanda,REIS,1
+20171113,2309,STORE PAULISTA,Consult de Vendas I,1,302649,,01,Everyone,Colaborador,Aline,NUSSENZVEIG,1
+20180503,2309,STORE PAULISTA,Caixa,1,302760,,01,Everyone,Colaborador,Diane,SANTOS,1
+20180503,2309,STORE PAULISTA,Caixa,1,302768,,01,Everyone,Colaborador,Silvana,SANTOS,1
+20180503,2309,STORE PAULISTA,Consult de Vendas I,1,302770,20180801,03,Everyone,Colaborador,Renan,OLIVEIRA,1
+20180614,2309,STORE PAULISTA,Caixa,1,302803,,01,Everyone,Colaborador,Lorenzo,GOMES,1
+20150511,2311,STORE RIBEIRAO,Consult de Vendas I,1,301853,,01,Everyone,Colaborador,Talita,Machado,1
+20150817,2311,STORE RIBEIRAO,Supervisor de Vendas,1,301920,,05,Everyone,Colaborador,Isabella,Daguano,2
+20150817,2311,STORE RIBEIRAO,Consult de Vendas II,1,301921,,01,Everyone,Colaborador,Augusto,Muraca,2
+20150817,2311,STORE RIBEIRAO,Supervisor de Vendas,1,301928,,01,Everyone,Colaborador,Jamila,Souza,2
+20160502,2311,STORE RIBEIRAO,Caixa,1,302142,,01,Everyone,Colaborador,Tawane,Manfredi,1
+20160516,2311,STORE RIBEIRAO,Estoquista,1,302156,,01,Everyone,Colaborador,Tuany,Felisberto,1
+20161205,2311,STORE RIBEIRAO,Consult de Vendas I,1,302322,,01,Everyone,Colaborador,Patricia,SILVA,1
+20161209,2311,STORE RIBEIRAO,Consult de Vendas I,1,302324,,01,Everyone,Colaborador,Hellen,CARDOSO,1
+20170102,2311,STORE RIBEIRAO,Supervisor de Vendas,1,302329,,01,Everyone,Colaborador,Clayton,SOUSA,2
+20170612,2311,STORE RIBEIRAO,Supervisor de Vendas,1,302522,,05,Everyone,Colaborador,Jackeline,OLMEDO,2
+20170807,2311,STORE RIBEIRAO,Consult de Vendas I,1,302569,,01,Everyone,Colaborador,Antonio,LUIZ,1
+20170814,2311,STORE RIBEIRAO,Aprendiz,1,302575,,01,Everyone,Colaborador,Maria,FERREIRA,1
+20171211,2311,STORE RIBEIRAO,Caixa,1,302667,,01,Everyone,Colaborador,Michele,SANTO,1
+20180319,2311,STORE RIBEIRAO,Aprendiz,1,302741,,01,Everyone,Colaborador,Mariana,PIRES,1
+20180608,2311,STORE RIBEIRAO,Promotor de Vendas,1,302793,,01,Everyone,Colaborador,Josiane,SILVA,1
+20180712,2311,STORE RIBEIRAO,Consult de Vendas I,1,302819,,01,Everyone,Colaborador,Jacqueline,ALMEIDA,1
+20180712,2311,STORE RIBEIRAO,Caixa,1,302821,,01,Everyone,Colaborador,Ana,BECCARI,1
+20180713,2311,STORE RIBEIRAO,Promotor de Vendas,1,302818,,01,Everyone,Colaborador,Isabela,MANINI,1
+20130408,1932,STORE RIO SUL,Supervisor de Vendas,1,301229,,01,Everyone,Colaborador,Aubrey,Araujo,2
+20131007,1932,STORE RIO SUL,Supervisor de Vendas,1,301418,,01,Everyone,Colaborador,Andrea,Costa,2
+20131007,1932,STORE RIO SUL,Consult de Vendas II,1,301419,,01,Everyone,Colaborador,Josidete,Cintra,1
+20131202,1932,STORE RIO SUL,Consult de Vendas I,1,301479,,01,Everyone,Colaborador,Debora,Matias,1
+20140505,1932,STORE RIO SUL,Supervisor de Vendas,1,301591,,01,Everyone,Colaborador,Bruno,Nascimento,2
+20140814,1932,STORE RIO SUL,Maquiador,1,201165,,01,Everyone,Colaborador,Melissa,Abreu,1
+20141117,1932,STORE RIO SUL,Consult de Vendas II,1,301737,,01,Everyone,Colaborador,Rosilene,Sousa,1
+20151103,1932,STORE RIO SUL,Agte de Prev  Perdas,1,301987,,01,Everyone,Colaborador,Bianca,Cascao,1
+20151207,1932,STORE RIO SUL,Caixa,1,302039,,01,Everyone,Colaborador,Helen,Martins,1
+20160304,1932,STORE RIO SUL,Consult de Vendas I,1,302075,,01,Everyone,Colaborador,Leandro,Rodrigues,1
+20160404,1932,STORE RIO SUL,Supervisor de Vendas,1,302121,,01,Everyone,Colaborador,Priscila,Pereira,2
+20160502,1932,STORE RIO SUL,Consult de Vendas I,1,302144,,01,Everyone,Colaborador,Alex,Machado,1
+20160511,1932,STORE RIO SUL,Consult de Vendas I,1,302151,,09,Everyone,Colaborador,Paula,Mihailescu,1
+20160606,1932,STORE RIO SUL,Consult de Vendas I,1,302161,,01,Everyone,Colaborador,Andreza,Pimenta,1
+20160606,1932,STORE RIO SUL,Estoquista,1,302165,,01,Everyone,Colaborador,Paulo,Santos,1
+20170102,1932,STORE RIO SUL,Consult de Vendas I,1,302333,,01,Everyone,Colaborador,Silvana,CARDOSO,1
+20170102,1932,STORE RIO SUL,Consult de Vendas I,1,302334,,09,Everyone,Colaborador,Tatiana,GERIVAZO,1
+20170109,1932,STORE RIO SUL,Consult de Vendas I,1,302338,,01,Everyone,Colaborador,Manuela,MAGALHAES,1
+20170807,1932,STORE RIO SUL,Consult de Vendas I,1,302570,,01,Everyone,Colaborador,Ighor,DANTAS,1
+20170904,1932,STORE RIO SUL,Caixa,1,302582,,01,Everyone,Colaborador,Thaina,SANTOS,1
+20171002,1932,STORE RIO SUL,Agte de Prev  Perdas,1,302610,,01,Everyone,Colaborador,Flavio,AMARAL,1
+20180205,1932,STORE RIO SUL,Caixa,1,302699,,01,Everyone,Colaborador,Denis,SILVA,1
+20180514,1932,STORE RIO SUL,Ger de Loja III,1,302786,,01,Everyone,Gerente,Amalia,HOLANDA,2
+20170403,2451,Store Riomar - Recife,Ger de Loja I,1,302437,,01,Everyone,Gerente,Janaina,MELO,2
+20170417,2451,Store Riomar - Recife,Agte de Prev  Perdas,1,302446,,01,Everyone,Colaborador,Iran,SILVA,1
+20170417,2451,Store Riomar - Recife,Estoquista,1,302447,,01,Everyone,Colaborador,Iago,BARROCA,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302451,,01,Everyone,Colaborador,Danieli,ALVES,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302452,,01,Everyone,Colaborador,Nathalia,SILVA,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas II,1,302454,,01,Everyone,Colaborador,Jose,Nascimento,2
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302455,,01,Everyone,Colaborador,Natalia,ALENCAR,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas II,1,302456,,01,Everyone,Colaborador,Luciene,SILVA,2
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302459,,01,Everyone,Colaborador,Fernanda,SILVA,1
+20170417,2451,Store Riomar - Recife,Caixa,1,302460,,01,Everyone,Colaborador,Ana,LIMA,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302461,,01,Everyone,Colaborador,Kellri,LIMA,1
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302462,,09,Everyone,Colaborador,Gabriela,NASCIMENTO,2
+20170417,2451,Store Riomar - Recife,Consult de Vendas I,1,302464,,01,Everyone,Colaborador,Suana,NASCIMENTO,1
+20170801,2451,Store Riomar - Recife,Consult de Vendas I,1,302557,,01,Everyone,Colaborador,Brennda,SILVA,1
+20170918,2451,Store Riomar - Recife,Supervisor de Vendas,1,302604,,01,Everyone,Colaborador,Paulo,LUNA,2
+20170918,2451,Store Riomar - Recife,Caixa,1,302606,,01,Everyone,Colaborador,Elayne,MOURA,1
+20180108,2451,Store Riomar - Recife,Caixa,1,302687,,01,Everyone,Colaborador,Vilma,MAGALHÃES,1
+20180308,2451,Store Riomar - Recife,Consult de Vendas I,1,302727,,01,Everyone,Colaborador,Valeria,NUNES,1
+20180508,2451,Store Riomar - Recife,Supervisor de Vendas,1,302773,,01,Everyone,Colaborador,Andrea,SILVA,2
+20140707,2496,STORE SALVADOR,Consult de Vendas II,1,301655,,01,Everyone,Colaborador,Jansei,Barros,1
+20150303,2496,STORE SALVADOR,Consult de Vendas II,1,301804,,01,Everyone,Colaborador,Wellington,Silva,1
+20160905,2496,STORE SALVADOR,Consult de Vendas II,1,302244,,01,Everyone,Colaborador,MONIQUE,ESQUIVEL,1
+20160905,2496,STORE SALVADOR,Consult de Vendas II,1,302245,,01,Everyone,Colaborador,POLIANA,SOUZA,1
+20170306,2496,STORE SALVADOR,Ger de Loja II,1,302395,,01,Everyone,Gerente,Airan,FIGUEIRA,2
+20170313,2496,STORE SALVADOR,Caixa,1,302399,,01,Everyone,Colaborador,Simone,SANTOS,1
+20170313,2496,STORE SALVADOR,Caixa,1,302400,,01,Everyone,Colaborador,Graziela,SANTOS,1
+20170313,2496,STORE SALVADOR,Agte de Prev  Perdas,1,302402,,01,Everyone,Colaborador,Daniel,OLIVEIRA,1
+20170313,2496,STORE SALVADOR,Consult de Vendas I,1,302406,20180801,03,Everyone,Colaborador,Raiane,BRITO,1
+20170313,2496,STORE SALVADOR,Caixa,1,302408,,09,Everyone,Colaborador,Celiane,Fernandes,1
+20170417,2496,STORE SALVADOR,Consult de Vendas I,1,302469,,09,Everyone,Colaborador,Michael,SANTANA,2
+20170515,2496,STORE SALVADOR,Supervisor de Vendas,1,302502,,01,Everyone,Colaborador,Catia,GONÇALVES,2
+20171020,2496,STORE SALVADOR,Consult de Vendas I,1,302624,,01,Everyone,Colaborador,Jaciara,SOUSA,2
+20171113,2496,STORE SALVADOR,Consult de Vendas I,1,302645,,01,Everyone,Colaborador,Camila,ALMEIDA,1
+20171113,2496,STORE SALVADOR,Consult de Vendas I,1,302651,,01,Everyone,Colaborador,Ana,PEREIRA,1
+20171211,2496,STORE SALVADOR,Estoquista,1,302671,,01,Everyone,Colaborador,Cleidison,SANTOS,2
+20180802,2496,STORE SALVADOR,Supervisor de Vendas,1,302825,,01,Everyone,Colaborador,Helio,SILVA,2
+20130715,2346,Store Park Shopping Barigui,Supervisor de Vendas,1,301323,,01,Everyone,Colaborador,Izaura,Chitko,2
+20160104,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302045,,01,Everyone,Colaborador,Fernanda,Rocha,2
+20160822,2346,Store Park Shopping Barigui,Estoquista,1,302226,,01,Everyone,Colaborador,Dionatas,SILVA,1
+20160822,2346,Store Park Shopping Barigui,Caixa,1,302232,,01,Everyone,Colaborador,Matheus,SIQUEIRA,1
+20160905,2346,Store Park Shopping Barigui,Supervisor de Vendas,1,302247,,01,Everyone,Colaborador,SUELLEN,STAINE,2
+20170306,2346,Store Park Shopping Barigui,Ger de Loja II,1,302363,,01,Everyone,Gerente,Marcelo,de ANDRADE,2
+20170508,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302479,,01,Everyone,Colaborador,Paola,MARANHO,2
+20170814,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302573,,01,Everyone,Colaborador,Renata,Scharf,2
+20171009,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302614,,01,Everyone,Colaborador,Lenadro,SILVA,2
+20171113,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302650,,01,Everyone,Colaborador,Rafaela,SANTOS,1
+20171213,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302673,,01,Everyone,Colaborador,Fania,CORDEIRO,1
+20180105,2346,Store Park Shopping Barigui,Promotor de Vendas,1,302682,,01,Everyone,Colaborador,Thalita,KUHNEM,0
+20180112,2346,Store Park Shopping Barigui,Promotor de Vendas,1,302692,,01,Everyone,Colaborador,Igor,ANJOS,0
+20180309,2346,Store Park Shopping Barigui,Promotor de Vendas,1,302731,,01,Everyone,Colaborador,Loana,MARTINS,1
+20180611,2346,Store Park Shopping Barigui,Consult de Vendas I,1,302796,,01,Everyone,Colaborador,Nathalia,SILVA,1
+20180611,2346,Store Park Shopping Barigui,Caixa,1,302799,,01,Everyone,Colaborador,Estefania,SCHIP,1
+20150901,2320,Store Porto Alegre ­ Iguatemi,Supervisor de Vendas,1,301936,,01,Everyone,Colaborador,Ketna,Silva,2
+20150901,2320,Store Porto Alegre ­ Iguatemi,Supervisor de Vendas,1,301944,,01,Everyone,Colaborador,Maiane,Afonso,2
+20151103,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas II,1,302010,,01,Everyone,Colaborador,Fernanda,Oliveira,1
+20151201,2320,Store Porto Alegre ­ Iguatemi,Supervisor de Vendas,1,302036,,01,Everyone,Colaborador,Daiane,Urbano,2
+20160404,2320,Store Porto Alegre ­ Iguatemi,Ger de Loja II,1,302095,,01,Everyone,Gerente,Jose,Ferraz,2
+20160711,2320,Store Porto Alegre ­ Iguatemi,Caixa,1,302178,,01,Everyone,Colaborador,Maria,Gallas,1
+20160711,2320,Store Porto Alegre ­ Iguatemi,Agte de Prev  Perdas,1,302181,,01,Everyone,Colaborador,Michele,Lopes,1
+20160711,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302185,,07,Everyone,Colaborador,Amanda,Airoldi,1
+20160711,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas II,1,302186,,01,Everyone,Colaborador,Catia,Bittencourt,1
+20160711,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302188,,01,Everyone,Colaborador,Francielle,Pedroso,1
+20160711,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas II,1,302192,,01,Everyone,Colaborador,Leonardo,Oliveira,1
+20160718,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302200,,01,Everyone,Colaborador,PATRICIA,PEDROSO,1
+20170306,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas II,1,302359,,01,Everyone,Colaborador,Morghana,CASONATI,1
+20170306,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302373,,01,Everyone,Colaborador,Lidia,AZEVEDO,1
+20170502,2320,Store Porto Alegre ­ Iguatemi,Caixa,1,302475,,01,Everyone,Colaborador,Cristiane,PÔRTO,1
+20170801,2320,Store Porto Alegre ­ Iguatemi,Estoquista,1,302552,,01,Everyone,Colaborador,Elyngton,RODRIGUES,1
+20170801,2320,Store Porto Alegre ­ Iguatemi,Caixa,1,302553,,01,Everyone,Colaborador,Meridiana,SOUZA,1
+20171211,2320,Store Porto Alegre ­ Iguatemi,Caixa,1,302670,,01,Everyone,Colaborador,Paula,CRUZ,1
+20171215,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302675,,01,Everyone,Colaborador,Caroline,GAIO,1
+20180108,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302690,,01,Everyone,Colaborador,Vanessa,MISSEL,0
+20180208,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302708,,01,Everyone,Colaborador,Caroline,ADORNES,1
+20180802,2320,Store Porto Alegre ­ Iguatemi,Consult de Vendas I,1,302828,,01,Everyone,Colaborador,Rochelle,FRONTEIRA,1
+20140401,A758,WAREHOUSE & FULFILLMENT,Coord de Logística,1,102165,,01,Everyone,Colaborador,Gustavo,Parente,0
+20170403,A758,WAREHOUSE & FULFILLMENT,Anl de inventário Jr,1,201258,,01,Everyone,Colaborador,Evelin,BRAIT,0
+20180712,A758,WAREHOUSE & FULFILLMENT,Anl de Logistica JR,1,201292,,01,Everyone,Colaborador,Thais,SANTOS,0
+20090407,1980,WEBSTORE,Anl de Credito,1,101047,,01,Everyone,Colaborador,Juliana,Castro,0
+20111013,1980,WEBSTORE,Anl De Credito Jr.,1,101087,,01,Everyone,Colaborador,Alessandra,Ribeiro,0
+20120709,1980,WEBSTORE,Ger DE SAC,1,102095,,01,Everyone,Gerente,Erika,Vieira,0
+20121112,1980,WEBSTORE,Atendente Com Jr,1,102104,,01,Everyone,Colaborador,Rafael,Carvalho,0
+20121112,1980,WEBSTORE,Anl De Credito Jr.,1,102105,,01,Everyone,Colaborador,Leila,Silva,0
+20130214,1980,WEBSTORE,Sup de Atendimento,1,102117,,01,Everyone,Colaborador,Guilherme,Ribeiro,0
+20130304,1980,WEBSTORE,Atendente Com Pleno,1,102118,,09,Everyone,Colaborador,Leonardo,Bezerra,0
+20130318,1980,WEBSTORE,Atendente Com Jr,1,102123,,09,Everyone,Colaborador,Vanessa,Buccos,0
+20130805,1980,WEBSTORE,Atendente Com Pleno,1,102146,,01,Everyone,Colaborador,Jessica,Silva,0
+20140203,1980,WEBSTORE,Atendente Com Jr,1,102160,,01,Everyone,Colaborador,Elizabeth,Costa,0
+20140203,1980,WEBSTORE,Atendente Com Jr,1,102162,,01,Everyone,Colaborador,Marcella,Oliveira,0
+20140210,1980,WEBSTORE,Atendente Com Jr,1,102163,,01,Everyone,Colaborador,Jacqueline,Silva,0
+20140602,1980,WEBSTORE,Atendente Com Jr,1,102169,,01,Everyone,Colaborador,Daniela,Costa,0
+20140602,1980,WEBSTORE,Oper Atendimento,1,102173,,07,Everyone,Colaborador,Carolina,Desiderio,0
+20150303,1980,WEBSTORE,Atendente Com Jr,1,201190,,01,Everyone,Colaborador,Ives,Correa,0
+20150303,1980,WEBSTORE,Oper Atendimento,1,201191,,01,Everyone,Colaborador,Daiane,RODRIGUES,0
+20150303,1980,WEBSTORE,Oper Atendimento,1,201192,,01,Everyone,Colaborador,Rosa,Silva,0
+20150817,1980,WEBSTORE,Atendente Com Jr,1,201227,,01,Everyone,Colaborador,Karina,Motta,0
+20160211,1980,WEBSTORE,Atendente Com Jr,1,201236,,01,Everyone,Colaborador,Elander,Silva,0
+20160211,1980,WEBSTORE,Oper Atendimento,1,201237,,01,Everyone,Colaborador,Monique,Souza,0
+20160211,1980,WEBSTORE,Oper Atendimento,1,201238,,09,Everyone,Colaborador,Diego,Costa,0
+20170206,1980,WEBSTORE,Oper Atendimento,1,201253,,01,Everyone,Colaborador,Igor,VIEIRA,0
+20170502,1980,WEBSTORE,Aprendiz,1,201260,,01,Everyone,Colaborador,Ayrton,BORGES,0
+20170508,1980,WEBSTORE,Oper Atendimento,1,201261,,01,Everyone,Colaborador,Danielle,SANTOS,0
+20170710,1980,WEBSTORE,Oper Atendimento,1,201264,,01,Everyone,Colaborador,Rodrigo,ROSA,0
+20170807,1980,WEBSTORE,Oper Atendimento,1,201268,,07,Everyone,Colaborador,Jessica,BARBARA,0
+20171016,1980,WEBSTORE,Oper Atendimento,1,201273,,01,Everyone,Colaborador,Stacy,de,0
+20171106,1980,WEBSTORE,Oper Atendimento,1,201274,,01,Everyone,Colaborador,Layza,FERREIRA,0
+20180201,1980,WEBSTORE,Oper Atendimento,1,201279,,01,Everyone,Colaborador,Ricardo,FERREIRA,0
+20180201,1980,WEBSTORE,Oper Atendimento,1,201280,,01,Everyone,Colaborador,Francisco,RAMOS,0
+20180201,1980,WEBSTORE,Oper Atendimento,1,201281,,01,Everyone,Colaborador,Felipe,OLIVEIRA,0
+20180312,1980,WEBSTORE,Aprendiz,1,201283,,01,Everyone,Colaborador,Anna,SIQUEIRA,0
+20110901,A939,WEBSTORE-SHARED,Atendente Com Pleno,1,101082,,01,Everyone,Colaborador,Alana,Soares,0
